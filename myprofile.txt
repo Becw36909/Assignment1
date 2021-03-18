@@ -23,7 +23,7 @@
 <p>I am a passionate and lifelong horse lover and active dressage competitor. I have a small team of horses that I have raised, train and compete with. Twice winner of Queensland State Dressage Champion titles (2011 & 2015) with the goal of more to come. 
 .</p>
 
-<p><a href = "interest in it.html"> Index page </a> </p>
+<p><a href = "interest in it.html"> Interest in IT </a> </p>
 
 </body>
 </html>
